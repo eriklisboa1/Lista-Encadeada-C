@@ -90,7 +90,6 @@ printf("Digite o nome do livro a ser removido:\n ");
 scanf("%s", nomeProdutos);
 removerItem(&deposito, nomeProdutos);
 }
-system("cls");
 break;
     case 3:
 printf("\n\n");
@@ -139,7 +138,6 @@ printf("LISTA DE SMARTPHONE:\n");
 imprimirLista(&deposito);
 return 0;
 break;
-system("cls");
 }
 break;
     case 3:
