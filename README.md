@@ -31,5 +31,5 @@ A função removerItem remove um item da lista a partir do nome do produto, perc
 >Aonde o resultado vai para um for, exemplo se você colocar 3 ele ira pedir pra adicionar um smartphone 3x:
 ![Quartafoto](https://github.com/eriklisboa1/Lista-Encadeada-C/blob/main/github3.png)
 >Quando voce termina de colocar ele volta para o menu inicial aonde voce pode adicionar mais produtos e depois pedir para o mostrar, um exemplo do que foi pedido na imagem anterior:
-![]Quintafoto](https://github.com/eriklisboa1/Lista-Encadeada-C/blob/main/git1.png)
+![Quintafoto](https://github.com/eriklisboa1/Lista-Encadeada-C/blob/main/git1.png)
 >Essa parte é apertando o 4 para o mostrar tudo, mas da pra manipular varias coisas, voce pode adicionar mais produtos e também remover em outras parte e mesmo assim ele ira mostrar tudo quando acabar de adiciona ou remover. 
