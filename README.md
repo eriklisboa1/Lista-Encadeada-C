@@ -1,6 +1,6 @@
 # Lista Encadeanda em C 
 
- ##Introdução
+# INTRODUÇÃO
 
 > Este código implementa uma lista ligada de produtos em C, onde cada produto é representado por uma estrutura Produtos. A lista é mantida usando ponteiros, e os produtos são adicionados, removidos e impressos usando as funções addItem, removerItem e imprimirLista, respectivamente. A função aloca é responsável por alocar dinamicamente memória para novos itens na lista. Esse código é útil para entender como funciona uma lista ligada em C e pode ser utilizado como base para projetos maiores.
 >
